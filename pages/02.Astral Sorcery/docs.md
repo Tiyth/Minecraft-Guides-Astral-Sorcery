@@ -32,7 +32,7 @@ Astral Sorcery was first released in Beta on February 12, 2017 for Minecraft ver
 
 </center>
 
-This mod is primarily focused at night but that does not mean that you can't progress with the mod during the day. This mod is based very much around finding stuff in the world and _does_ mean that if you are playing on a server that you will need be aware of others who are also trying to progress in the mod.
+This mod is primarily focused at night but that does not mean that you can't progress with the mod during the day. This mod is based very much around finding stuff in the world and _does_ mean that if you are playing on a server that you will need be aware of others who are also trying to progress in the mod..
 
 Before you start this mod, it is highly recommended that you install a mapping mod such as [Journey Map](https://minecraft.curseforge.com/projects/journeymap) to make tracking a little easier.
 
