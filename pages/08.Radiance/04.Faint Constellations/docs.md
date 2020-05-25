@@ -30,6 +30,4 @@ You can look up each of these constellations in the Tome but the descriptions ar
 	* Double the Efficacy
 * Alcara
 	* Greatly increases fracture rate
-	* Doubles the Size
-	* Doubles the Effect
 	* Corrupts the ritual
