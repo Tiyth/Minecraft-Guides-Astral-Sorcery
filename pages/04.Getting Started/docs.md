@@ -1,6 +1,7 @@
 ---
 title: 'Getting Started - Discovery'
 media_order: 'discovery page.jpg,collector-crystal.jpg'
+published: true
 taxonomy:
     category:
         - docs
