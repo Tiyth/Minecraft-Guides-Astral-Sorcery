@@ -7,7 +7,9 @@ taxonomy:
 process:
     markdown: true
     twig: true
-
+twitterenable: true
+twittercardoptions: summary
+facebookenable: false
 ---
 
 Place down a crafting table near the Collector Crystal and craft a Resonating Wand. This wand can only be crafted next to a crystal in this way. If your wand does not show up, restart Minecraft.
