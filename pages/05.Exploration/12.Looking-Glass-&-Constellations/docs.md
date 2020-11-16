@@ -4,6 +4,9 @@ media_order: 'looking glass crafting.jpg,Stars.jpg,Stars 2.jpg'
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+facebookenable: false
 jscomments:
     active: false
 ---
