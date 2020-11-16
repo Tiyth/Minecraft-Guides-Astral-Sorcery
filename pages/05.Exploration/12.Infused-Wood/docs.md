@@ -4,6 +4,9 @@ media_order: 'crafting-infused-wood.jpg,infused-wood-types.jpg'
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+facebookenable: false
 jscomments:
     active: false
 ---
