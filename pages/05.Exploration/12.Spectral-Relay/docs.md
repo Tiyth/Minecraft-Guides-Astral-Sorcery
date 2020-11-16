@@ -4,6 +4,9 @@ media_order: 'Spectral Relay.jpg,relay set up.jpg,starlight cannibalism.jpg'
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+facebookenable: false
 ---
 
 If you are still having problems with Starlight then there are other tools you can use to increase this. The Spectral Relay is a multiblock structure. Full instructions on how to build this can be found in your Tome on page 2 of the Relay, on the top right of the left page. Hovering over the star will give you a full list of materials needed. Once the foundation is built, place down the Relay and the right-click the relay with a Glass Lens.
