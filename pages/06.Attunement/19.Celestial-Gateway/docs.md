@@ -4,6 +4,9 @@ media_order: 'gateway.jpg,gateway-star.jpg'
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+facebookenable: false
 jscomments:
     active: false
 ---
