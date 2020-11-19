@@ -6,6 +6,9 @@ taxonomy:
 process:
     markdown: true
     twig: true
+twitterenable: true
+twittercardoptions: summary
+facebookenable: false
 jscomments:
     active: false
 ---
