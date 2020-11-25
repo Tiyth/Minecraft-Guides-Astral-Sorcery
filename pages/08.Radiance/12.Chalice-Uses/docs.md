@@ -4,6 +4,9 @@ media_order: 'Chalice and Lightwell.jpg,Chalice infuser.jpg'
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+facebookenable: false
 jscomments:
     active: false
 ---

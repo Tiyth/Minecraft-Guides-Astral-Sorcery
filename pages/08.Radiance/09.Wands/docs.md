@@ -1,5 +1,5 @@
 ---
-title: 'Wands'
+title: Wands
 media_order: 'Advanced Wands.jpg'
 taxonomy:
     category:

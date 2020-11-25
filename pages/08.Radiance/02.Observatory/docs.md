@@ -1,5 +1,5 @@
 ---
-title: 'Observatory'
+title: Observatory
 media_order: 'new constellations.jpg,Observatory.jpg'
 taxonomy:
     category:
