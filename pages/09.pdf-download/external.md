@@ -5,8 +5,8 @@ twitterenable: true
 twittercardoptions: summary
 articleenabled: false
 article:
-    datePublished: '27-12-2020 22:56'
-    dateModified: '27-12-2020 22:56'
+    datePublished: '27-12-2020 23:07'
+    dateModified: '27-12-2020 23:07'
 musiceventenabled: false
 orgaenabled: false
 orga:
