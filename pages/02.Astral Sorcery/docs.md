@@ -22,6 +22,9 @@ Astral Sorcery was first released in Beta on February 12, 2017 for Minecraft ver
 
 <center>Current Version/Version Used:<b> 1.12.2-1.10.11</b></center>
 
+<center>Minecraft Version Used:<b> 1.12.2</b></center>
+
+
 <center>
     <b><a href="https://minecraft.curseforge.com/projects/astral-sorcery" target="_blank">CurseForge</a></b>
     --
