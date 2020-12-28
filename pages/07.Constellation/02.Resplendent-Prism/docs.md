@@ -10,6 +10,9 @@ jscomments:
 
 The Resplendent Prism is a Bauble that sits in the Amulet slot. This Bauble will add levels to random enchants on the items you are wearing or have equipped in your main or off hand. The Prism will add up to 3 different (random) enchant levels. This can also apply to enchants added by other mods. It is also very important to know that levels are added to EXISTING enchants.
 
+>>> The Resplendent Prism uses Curios instead of Baubles in 1.15.2 and up. Curios uses necklaces instead of amulets.
+
+
 The enchants are randomly rolled when you put the Prism into your inventory:
 
 ![](Resplendent%20Prism%20enchants%201.jpg)![](Resplendent%20Prism%20enchants%202.jpg)
