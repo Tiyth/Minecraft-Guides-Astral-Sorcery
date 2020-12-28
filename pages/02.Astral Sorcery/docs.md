@@ -36,9 +36,9 @@ Astral Sorcery is a magical mod for Minecraft based on the night sky that helps 
 
 Astral Sorcery was first released in Beta on February 12, 2017 for Minecraft version 1.10.2 by **HellFirePvP.**
 
-<center><b>Current Version/Version Used:</b> 1.12.2-1.10.11</center>
+<center>Current Version/Version Used:<b> 1.12.2-1.10.11</b></center>
 
-<center><b>Minecraft Version Used:</b> 1.12.2</center>
+<center>Minecraft Version Used: <b>1.12.2</b></center>
 
 
 <center>
