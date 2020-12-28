@@ -24,7 +24,12 @@ The stats on these gems is random and there are 3 different kinds:
 * Fengarum Gem
 * Ourium Gem
 
-Growing these crystals takes time and is very reliant on luck, because you have a chance of getting any of the 3 crystals from growing them, you are never guaranteed to get a Illium or a Ourium gem, these gems are no different from each other, the stats are always random.
+Growing these crystals takes time and the gem outcome is related to the time that the final stage of the gem is formed at, these gems are no different from each other, the stats are always random.
+
+
+* Fengarums will trigger between 14743-21257
+* Iliums will trigger between 23658-12342
+* Ourium will trigger between 12343-14742 and 21258-23657
 
 ![](Gems.jpg)
 
