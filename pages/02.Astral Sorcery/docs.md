@@ -35,7 +35,7 @@ This mod is primarily focused at night but that does not mean that you can't pro
 
 Before you start this mod, it is highly recommended that you install a mapping mod such as [Journey Map](https://minecraft.curseforge.com/projects/journeymap) to make tracking a little easier.
 
-This guide will not have any crafting recipes in it. Please use [JEI](https://minecraft.curseforge.com/projects/jei?gameCategorySlug=mc-mods&projectID=238222), as some modpacks change crafting recipes.
+>>>>> This guide will not have any crafting recipes in it. Please use [JEI](https://minecraft.curseforge.com/projects/jei?gameCategorySlug=mc-mods&projectID=238222), as some modpacks change crafting recipes.
 
 >>>>>  You can use the Arrow Keys to navigate pages backwards and forwards. The checkmarks next to the title indicate which pages you have visited. You can clear this by pressing "Clear History" at the bottom of the menu.
 
