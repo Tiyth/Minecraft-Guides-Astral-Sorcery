@@ -22,4 +22,4 @@ When building the new structure, make sure you check the Tome and rotate the ima
 
 Once the Celestial Altar has been built and upgraded you will notice there are even more spaces in the crafting grid.
 
->>>> The above Altar is **NOT** set up in the most efficaint manner because the Spectral Relay's are too close together.
+>>>> The above Altar is **NOT** set up in the most efficient manner because the Spectral Relay's are too close together.
