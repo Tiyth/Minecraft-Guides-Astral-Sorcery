@@ -33,4 +33,4 @@ Growing these crystals takes time and the gem outcome is related to the time tha
 
 ![](Gems.jpg)
 
-It would be advisable to plant these gems as quickly and as early as possible because growing them takes time and is mostly about luck.
+It would be advisable to plant these gems as quickly and as early as possible because growing them takes time and is mostly about luck. If you don't like the outcome of them gem it's possible to wait. After some time it will convert back into the previous stage which will allow it to grow into a new Dynasty gem, depending on the time. This is useful if you don't have spare rock crystals to grow a new gem.
