@@ -16,4 +16,4 @@ With the below Ritual pedestal it is impossible to see the range of the Ritual b
 
 ![](Domic%20Resonator.jpg)
 
-This green dome is the range of the Ritual, the only way to remove this dome is to step out of it or to use the Domic Resonator on a something else (like a Tree Beacon). This can be very useful when trying to see how far a ritual goes. This can also be used on the Tree Beacon.
+This green dome is the range of the Ritual, the only way to remove this dome is to step out of it or to use the Domic Resonator on something else (like a Tree Beacon). This can be very useful when trying to see how far a ritual goes. This can also be used on the Tree Beacon.
