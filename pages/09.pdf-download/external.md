@@ -1,6 +1,6 @@
 ---
 title: 'PDF Download'
-external_url: 'https://as.minecraftguides.net/Astral%20Sorcery.pdf'
+external_url: 'https://minecraftguides.net/AS/Astral%20Sorcery.pdf'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false
