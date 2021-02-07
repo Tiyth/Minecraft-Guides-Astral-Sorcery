@@ -17,7 +17,7 @@ jscomments:
 
 The first item that should be crafted is the Containment Challice (this will also demonstrate how crafting now works). Once the required items are in the table, there will be a picture (just like before) on the right side of the table that will confirm that you have all the right reagents.
 
-Before you right-click the table with your Resonating Wand, place down 4 relays on the Sooty Marble just inside the border. This is so you can see what the Altar is asking for and so you can put these items down quickly.
+Before you right-click the table with your Resonating Wand, place down 5 relays on the Sooty Marble just inside the border. This is so you can see what the Altar is asking for and so you can put these items down quickly.
 
 >>>>> Always make sure you put down as many relays as the recipe asks for: six floating items, six relays.
 
