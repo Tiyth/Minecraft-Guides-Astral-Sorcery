@@ -13,6 +13,22 @@ twittercardoptions: summary
 facebookenable: false
 jscomments:
     active: false
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
 ---
 
 The first item that should be crafted is the Containment Chalice (this will also demonstrate how crafting now works). Once the required items are in the table, there will be a picture (just like before) on the right side of the table that will confirm that you have all the right reagents.
