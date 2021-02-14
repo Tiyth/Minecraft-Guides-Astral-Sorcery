@@ -1,5 +1,5 @@
 ---
-title: 'Containment Challice'
+title: 'Containment Chalice'
 media_order: 'Relay Altar placement.jpg,Altar Relay crafting.jpg,Single Challice.jpg,Challice interaction.jpg,Lava and water in Challice.jpg,3 Chalices.jpg'
 taxonomy:
     category:
@@ -15,7 +15,7 @@ jscomments:
     active: false
 ---
 
-The first item that should be crafted is the Containment Challice (this will also demonstrate how crafting now works). Once the required items are in the table, there will be a picture (just like before) on the right side of the table that will confirm that you have all the right reagents.
+The first item that should be crafted is the Containment Chalice (this will also demonstrate how crafting now works). Once the required items are in the table, there will be a picture (just like before) on the right side of the table that will confirm that you have all the right reagents.
 
 Before you right-click the table with your Resonating Wand, place down 5 relays on the Sooty Marble just inside the border. This is so you can see what the Altar is asking for and so you can put these items down quickly.
 
@@ -37,7 +37,7 @@ Once finished, the item will appear on top of the Altar.
 
 The Containment Chalice does a few things and can be very useful when paired with tech mods. The Chalice will hold 24MB of liquids. This means it will hold Liquid Starlight, water and lava. On its own it works as a good solution for holding Liquid Starlight.
 
-![A single Containment Challice ](Single%20Challice.jpg)
+![A single Containment Chalice ](Single%20Challice.jpg)
 
 What's special about this Chalice is when you stand them next to each other when filled with different liquids. Filling one with Water and one with Liquid Starlight will cause the water and Starlight particles to interact with each other, creating blocks of Ice. This is because when Starlight touches water it turns into ice:
 
