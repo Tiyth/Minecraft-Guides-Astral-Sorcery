@@ -56,7 +56,7 @@ menu: Index
 	* [Refraction Table Enchants](/constellation/refraction%20table%20enchants)
 	* [Iridescent Altar](/constellation/iridescent%20altar)
 * [Radiance](/radiance)
-	* [Containment Challice](/radiance/containment%20challice)
+	* [Containment Chalice](/radiance/containment%20chalice)
 	* [Chalice Uses](/radiance/chalice%20uses)
 	* [Observatory](/radiance/observatory)
 	* [Faint Constellations & Effects](/radiance/faint%20constellations)
